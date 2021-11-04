@@ -5,3 +5,12 @@
 	path = The-Art-Of-Programming-By-July
 	url = git@github.com:julycoding/The-Art-Of-Programming-By-July.git
 [submodule "cgal"]
+[submodule "VulkanTutorial"]
+	path = VulkanTutorial
+	url = git@github.com:Overv/VulkanTutorial.git
+[submodule "SPIRV-Guide"]
+	path = SPIRV-Guide
+	url = git@github.com:KhronosGroup/SPIRV-Guide.git
+[submodule "leetcode"]
+	path = leetcode
+	url = https://xuliangyin@github.com/azl397985856/leetcode
