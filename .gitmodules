@@ -1,0 +1,3 @@
+[submodule "glTF-Tutorials"]
+	path = glTF-Tutorials
+	url = git@github.com:KhronosGroup/glTF-Tutorials.git
