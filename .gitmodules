@@ -1,3 +1,6 @@
 [submodule "glTF-Tutorials"]
 	path = glTF-Tutorials
 	url = git@github.com:KhronosGroup/glTF-Tutorials.git
+[submodule "The-Art-Of-Programming-By-July"]
+	path = The-Art-Of-Programming-By-July
+	url = git@github.com:julycoding/The-Art-Of-Programming-By-July.git
